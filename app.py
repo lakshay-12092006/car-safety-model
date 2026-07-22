@@ -100,7 +100,7 @@ developer_info = """
 ### About the Developer
 **Created by:- lakshay singla
 
-* **LinkedIn:** [Connect with me]https://www.linkedin.com/in/lakshay-singla-385ba9353?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lakshay-singla-385ba9353?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 ### 🛠️ Tools & Technologies Used
