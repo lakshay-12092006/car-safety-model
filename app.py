@@ -1,5 +1,3 @@
-# app.py
-
 import os
 import joblib
 import gradio as gr
@@ -67,7 +65,6 @@ def predict_car_safety(
         prediction = deployed_xgb.predict(input_data)
 
         # Assuming standard label encoding for the 'decision' target
-        # (Modify these return strings if your dataset used different target labels like unacc, acc, good, vgood)
         result_map = {
             0: "Unacceptable (unacc)",
             1: "Acceptable (acc)",
@@ -97,10 +94,9 @@ Select the vehicle's specifications below to run the assessment.
 """
 
 developer_info = """
-### About the Developer
-**Created by:- lakshay singla
+---
+### 👨‍💻 Developed by **Lakshay Singla**
 
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lakshay-singla-385ba9353?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 ### 🛠️ Tools & Technologies Used
