@@ -1,3 +1,7 @@
 joblib
 scikit-learn == 1.6.1
 gradio
+numpy
+pandas
+scikit-learn
+xgboost==2.1.4
