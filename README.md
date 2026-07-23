@@ -6,7 +6,7 @@ An AI-powered Machine Learning web application that predicts the **safety catego
 
 ## 🌐 Live Demo
 
-🔗 
+🔗  https://car-safety-model-bcgu.onrender.com
 
 ---
 
