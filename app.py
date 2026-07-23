@@ -95,8 +95,7 @@ Select the vehicle's specifications below to run the assessment.
 
 developer_info = """
 ---
-### 👨‍💻 Developed by **Lakshay Singla**
-
+### 👨‍💻 Developed by:- lakshay singla
 
 ---
 ### 🛠️ Tools & Technologies Used
